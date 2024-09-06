@@ -18,7 +18,7 @@ Start with: Up and Down arrow keys to move up and down.
 
 After 3 losses: Left And Right arrow keys to move left and right. You return to your side faster due to homefield advantage.
 
-After 3 wins: Space Bar to use your ultimate ability, Domain Expansion: Infinite Bouncy House
+After 3 wins: Space Bar to use your ultimate ability, Domain Expansion: Bouncy House of Infinity
 
 
 There is a secret spin technique to be discovered within the WASD family.
