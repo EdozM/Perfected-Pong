@@ -7,7 +7,7 @@ Controls:
 At First you just have the arrow keys to move up and down but after losing three balls you gain the ability to move left and right to out smart the AI. 
 Eventually with enough experience you'll be able to perform the pinnacle of Ping Ponging, Domain Expansion.
 
-PLAY HERE: (insert web link here)
+PLAY HERE: (https://edozm.github.io/Perfected-Pong/)
 
 
 Requirements and Controls:
