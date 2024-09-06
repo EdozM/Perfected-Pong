@@ -12,7 +12,9 @@ PLAY HERE: (insert web link here)
 
 Requirements and Controls:
 
+
 Start with: Up and Down arrow keys to move up and down.
+
 
 After 3 losses: Left And Right arrow keys to move left and right. You return to your side faster due to homefield advantage.
 
