@@ -10,7 +10,8 @@ Eventually with enough experience you'll be able to perform the pinnacle of Ping
 PLAY HERE: (insert web link here)
 
 
-Requirements | Controls | Action
+Requirements and Controls:
+
 Start with: Up and Down arrow keys to move up and down.
 After 3 losses: Left And Right arrow keys to move left and right. You return to your side faster due to homefield advantage.
 After 3 wins: Space Bar to use your ultimate ability, Domain Expansion: Infinite Bouncy House
