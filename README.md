@@ -4,7 +4,7 @@ In this game you'll have to use every trick up your sleeve to defeat the Evil Re
 The AI in this has nearly perfect tracking of the ball so you'll have to play dirty to win.
 
 Controls:
-At First you just have the arrow keys to move up and down but after losing one ball you gain the ability to move left and right to out smart the AI. 
+At First you just have the arrow keys to move up and down but after losing three balls you gain the ability to move left and right to out smart the AI. 
 Eventually with enough experience you'll be able to perform the pinnacle of Ping Ponging, Domain Expansion.
 
 PLAY HERE: (insert web link here)
