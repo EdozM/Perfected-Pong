@@ -8,7 +8,7 @@ At First you just have the arrow keys to move up and down but after losing three
 Eventually with enough experience you'll be able to perform the pinnacle of Ping Ponging, Domain Expansion.
 
 PLAY HERE: (https://edozm.github.io/Perfected-Pong/)
-
+YOU WIN WHEN YOU GET 3 MORE POINTS THEN THAT GUY
 
 Requirements and Controls:
 
@@ -18,7 +18,8 @@ Start with: Up and Down arrow keys to move up and down.
 
 After 3 losses: Left And Right arrow keys to move left and right. You return to your side faster due to homefield advantage.
 
-After 3 wins: Space Bar to use your ultimate ability, **Domain Expansion: Bouncy House of Infinity**
+After 3 wins: Space Bar to use your ultimate ability, **Domain Expansion: Bouncy Castle of Infinity**
+
 
 
 *There is a secret spin technique to be discovered within the WASD family.*
